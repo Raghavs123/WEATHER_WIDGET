@@ -1,0 +1,9 @@
+.InfoBox{
+    text-align: center;
+}
+
+/* To display card in the center */
+.cardContainer{   
+    display: flex;
+    justify-content: center;
+}
